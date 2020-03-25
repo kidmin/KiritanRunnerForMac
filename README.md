@@ -1,4 +1,7 @@
-# KiritanRunnerForMac
+# KiritanRunner for Mac
+
+作った人: https://twitter.com/kdmn
+配布場所: https://github.com/kidmin/KiritanRunnerForMac
 
 ## これは何？
 
@@ -31,3 +34,9 @@ AI きりたんを Mac で使うときに、ファイルを選ぶだけで処理
 6. 処理が終わったらターミナルアプリのウインドウを閉じます
 7. `Run.sh` と同じ場所にある output フォルダの中に、 wav ファイルが出力されています
 
+## お問い合わせ
+
+AI きりたんに関するお問い合わせには対応できません。
+KiritanRunner for Mac のスクリプトに関しては、上記「作った人」までお問い合わせください。
+問題点の修正や改善案については、可能な範囲で対応します。
+ただし、使い方の説明については対応できないこともあります。
