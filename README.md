@@ -1,7 +1,7 @@
 # KiritanRunner for Mac
 
-作った人: https://twitter.com/kdmn
-配布場所: https://github.com/kidmin/KiritanRunnerForMac
+* 作った人: https://twitter.com/kdmn
+* 配布場所: https://github.com/kidmin/KiritanRunnerForMac
 
 ## これは何？
 
