@@ -7,7 +7,7 @@ AI きりたんを Mac で使うときに、ファイルを選ぶだけで処理
 
 ## 初期設定
 
-1. このファイルを、 `Run.sh` と同じ場所に置きます
+1. `KiritanRunner.applescript` を、 `Run.sh` と同じ場所に置きます
 2. `Run.sh` をテキストエディット（使い方が分かれば他のアプリでも可）で開いて、\
 `BASENAME=sample1`\
 を\
